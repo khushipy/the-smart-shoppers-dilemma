@@ -1,0 +1,19 @@
+# Core
+Django==4.2.5
+djangorestframework==3.14.0
+python-dotenv==1.0.0
+
+# Async Tasks
+celery==5.3.4
+django-celery-results==2.5.1
+
+# Web Scraping
+beautifulsoup4==4.12.2
+lxml==4.9.3
+requests==2.31.0
+requests-html==0.10.0
+fake-useragent==1.4.0
+
+# Development
+django-debug-toolbar==4.1.0
+pytest-django==4.5.2
