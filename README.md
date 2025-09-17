@@ -11,8 +11,9 @@ A real-time product information pipeline that fetches product data and serves it
 - **Admin Interface**: Built-in Django admin for managing data
 - **Health Monitoring**: Built-in health check endpoints
   
-## PREVIEW 
-<img width="1897" height="867" alt="image" src="https://github.com/user-attachments/assets/b42d55df-2c47-46c0-8299-e0589548c4e2" />
+## API POSTMAN SS
+<img width="1432" height="886" alt="image" src="https://github.com/user-attachments/assets/52339a35-32b6-47a1-bef8-1d1380a8cb08" />
+
 
 
 ## Tech Stack
