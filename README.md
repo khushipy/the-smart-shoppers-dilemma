@@ -12,7 +12,14 @@ A real-time product information pipeline that fetches product data and serves it
 - **Health Monitoring**: Built-in health check endpoints
   
 ## API POSTMAN SS
+Search for products
 <img width="1432" height="886" alt="image" src="https://github.com/user-attachments/assets/52339a35-32b6-47a1-bef8-1d1380a8cb08" />
+Check Search History
+<img width="1427" height="921" alt="image" src="https://github.com/user-attachments/assets/5ace3cbd-e94a-4c11-b984-bd40752282a6" />
+Check for Health
+<img width="1441" height="598" alt="image" src="https://github.com/user-attachments/assets/965af727-b438-47b4-8c10-4b7473a1a034" />
+
+
 
 
 
