@@ -10,6 +10,10 @@ A real-time product information pipeline that fetches product data and serves it
 - **RESTful API**: Clean, well-documented API endpoints
 - **Admin Interface**: Built-in Django admin for managing data
 - **Health Monitoring**: Built-in health check endpoints
+  
+## PREVIEW 
+<img width="1897" height="867" alt="image" src="https://github.com/user-attachments/assets/b42d55df-2c47-46c0-8299-e0589548c4e2" />
+
 
 ## Tech Stack
 
